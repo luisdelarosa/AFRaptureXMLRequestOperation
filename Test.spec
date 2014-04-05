@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "AFRaptureXMLRequestOperation"
+  s.name         = "Test"
   s.version      = "0.0.1"
   s.platform     = :ios, '5.0'
   s.license      = 'MIT'
